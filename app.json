@@ -16,7 +16,7 @@
       "BAN_STICKER": {
          "description": "ID of the sticker you want to use when banning people. Watch Video (check out Redme.md) ",
          "required": false,
-         "value": ""
+         "value": "CAACAgUAAxkBAAIEcWJY1RHq7EQRPUolvteie97keIf2AAIGAAOIGhYmFLnBIPe1U3MjBA"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",
@@ -28,15 +28,15 @@
       },
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one. Watch Video (check out Redme.md)",
-         "value": ""
+         "value": "sqldbtype://username:pw@hostname:port/db_name"
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": ""
+         "value": "5178185894"
       },
       "OWNER_NAME": {
          "description": "Your username",
-         "value": "PANDITHAN"
+         "value": "SagarCV"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
@@ -45,7 +45,7 @@
       },
       "START_PIC": {
          "description": "Image shows when hit, users can can multiple photospace,pliting photo with space, togetpic: /start @MT_TelegraPH_Bot",
-         "value": "https://telegra.ph/file/8d8a7e610ca33690a6775.jpg"    
+         "value": "https://te.legra.ph/file/7550f0726ca6750799ec2.jpg"    
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
@@ -57,7 +57,7 @@
       },
       "TIME_API_KEY": {
          "description": "Required for timezone information Watch Video (check out Redme.md)",
-         "value": ""
+         "value": "HW6LQCYX43HS"
       },
       "AI_API_KEY": {
          "description": "for activate chatbot",
@@ -65,7 +65,7 @@
       },
       "API_OPENWEATHER": {
          "description": "Required for weather information Watch Video (check out Redme.md)",
-         "value": ""
+         "value": "5c5adc2bc1832de6943e3f4467e84c39"
       },
       "PORT": {
          "description": "Port to use for your webhooks.",
@@ -93,7 +93,7 @@
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
-         "value": ""
+         "value": "https://<appname>.herokuapp.com"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
